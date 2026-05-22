@@ -43,7 +43,7 @@
         "MODULE.bazel",
         "requirements_lock.txt"
       ],
-      "matchPackageNames": ["grpcio", "grpc"]
+      "matchPackageNames": ["grpcio", "grpc"],
       "prBodyNotes": [
         ":warning: This PR should also include the gRPC update in `rules_kotlin_jvm` and `common-jvm`. :warning:",
         "See example PRs:",
