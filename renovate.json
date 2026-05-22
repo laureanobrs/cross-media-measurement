@@ -44,6 +44,7 @@
         "requirements_lock.txt"
       ],
       "matchPackageNames": ["grpcio", "grpc"],
+      "prHeader": ":warning: This PR should also include the gRPC update in `rules_kotlin_jvm` and `common-jvm`. :warning:",
       "prBodyNotes": [
         ":warning: This PR should also include the gRPC update in `rules_kotlin_jvm` and `common-jvm`. :warning:",
         "See example PRs:",
