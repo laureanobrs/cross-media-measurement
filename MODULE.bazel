@@ -149,7 +149,7 @@ bazel_dep(
 )
 bazel_dep(
     name = "grpc",
-    version = "1.74.1",
+    version = "1.81.0",
 )
 
 # Must be compatible with the protobuf version declared in requirements.txt
